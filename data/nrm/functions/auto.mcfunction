@@ -12,7 +12,7 @@ scoreboard objectives add mz dummy "Max Z"
 scoreboard objectives setdisplay sidebar z
 
 scoreboard players set @e[tag=OW] x 0
-scoreboard players set @e[tag=OW] mx 40
+scoreboard players set @e[tag=OW] mx 3
 scoreboard players set @e[tag=OW] z 0
 scoreboard players set @e[tag=OW] mz 75
 
